@@ -5,20 +5,20 @@
   
   
 #### 整体架构
-  python爬下数据lolita数据，然后给其他模块用
+  python爬下数据lolita数据，然后给其他模块用，web的前端就用了Echarts和Bootstrap+Thymeleaf，简单方便，懒得做前后端分离了……。
   
   ![image](https://github.com/MOIPA/DataAnalysis/blob/master/images/img1.png)
   
   
 #### web系统架构
 
-  简单的练手系统，目的是熟悉公司代码风格和使用插件。SpringDataJPA，SpringBoot，Thymeleaf，lombok，BootStrap。懒得做前后端分离了……
+  简单的练手系统，目的是熟悉公司代码风格和使用插件。SpringDataJPA，SpringBoot，Thymeleaf，lombok，BootStrap。
   
-  具体的vo，po概念，bean拷贝手段，Java8的高级写法和特性，泛型使用的场合
+  学习：vo，po概念和处理，bean拷贝手段，Java8的高级写法和特性，泛型使用的场合，阿里规范代码
   
   架构图：
   
-    ![image](https://github.com/MOIPA/DataAnalysis/blob/master/images/img2.png)
+   ![image](https://github.com/MOIPA/DataAnalysis/blob/master/images/img2.png)
     
     
 #### 大概效果
